@@ -49,8 +49,8 @@ function draw() {
     fill(0);
     textSize(22);
     text("         : Crimes on Property", 10, 865);
-    text("         : Crimes on Society", 10,900);
-    text("         : Crimes on Person", 10, 935);
+    text("         : Crimes on Society", 10, 900);
+    text("         : Crimes on a Person", 10, 935);
     text("Downtown Baton Rouge Crime Incidents Categorized by Type", 10, 830);
 //colored circles in key
 push();
